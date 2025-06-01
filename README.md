@@ -21,8 +21,8 @@ By integrating **real-time data**, **traffic detection**, and **smart routing**,
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Mapping & Routing:** Google Maps API / Mapbox    
-- **APIs:** Open Charge Map API, Google Directions API
+- **Mapping & Routing:** Google Maps API   
+- **APIs:** Google Maps API
 
 ---
 
