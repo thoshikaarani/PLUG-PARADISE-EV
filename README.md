@@ -8,16 +8,13 @@ By integrating **real-time data**, **traffic detection**, and **smart routing**,
 ## 🚀 Features
 
 - 🔍 **Find Nearby Charging Stations**  
-  Automatically detects your location and displays the nearest EV charging points.
-
+  By giving your location as input and it displays the nearest ev charging points.
+  
 - 📡 **Real-Time Data Integration**  
   Displays station status, availability, and real-time updates from public APIs.
 
 - 🧠 **Smart Routing with Traffic Detection**  
   Calculates optimal routes based on live traffic conditions and distance.
-
-- 📱 **Responsive Design**  
-  Mobile-friendly layout for on-the-go access.
 
 ---
 
